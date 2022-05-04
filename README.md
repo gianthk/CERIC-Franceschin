@@ -7,3 +7,6 @@ particles sphericity | particles orientation
 :-------------------------:|:-------------------------:
 ![sphericity](notebooks/100slices_sphericity.png)  |  ![orientation](notebooks/100slices_regions_orientation.png)
 
+particles volume | particle depth
+:-------------------------:|:-------------------------:
+![sphericity](notebooks/100slices_regions_volume.png)  |  ![orientation](notebooks/100slices_regions_depth.png)
