@@ -3,10 +3,10 @@
 - [Franceschin_master](https://docs.google.com/spreadsheets/d/1Y38t_4FsvHDCTG1txvbf_1c687XsCP6WCiDtyZxWU_U/edit?usp=sharing)
 - [Image processing notebooks](./notebooks)
 
-particles sphericity | particles orientation
+particle sphericity | particle orientation
 :-------------------------:|:-------------------------:
 ![sphericity](notebooks/100slices_sphericity.png)  |  ![orientation](notebooks/100slices_regions_orientation.png)
 
-particles volume | particle depth
+particle volume | particle depth
 :-------------------------:|:-------------------------:
 ![sphericity](notebooks/100slices_regions_volume.png)  |  ![orientation](notebooks/100slices_regions_depth.png)
