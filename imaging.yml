@@ -1,0 +1,13 @@
+name: imaging
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.9
+  - numpy=1.23.0
+  - matplotlib=3.6.0
+  - scipy=1.9.3
+  - scikit-image=0.19.3
+  - dxchange
+  - tifffile
+  - pypng
