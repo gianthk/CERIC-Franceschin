@@ -10,3 +10,12 @@ particle sphericity | particle orientation
 particle volume | particle depth
 :-------------------------:|:-------------------------:
 ![sphericity](notebooks/100slices_regions_volume.png)  |  ![orientation](notebooks/100slices_regions_depth.png)
+
+## Figures
+- [ ] Crystals location
+- [ ] Crystals size and shape (sphericity, DA, ...)
+- [ ] Crystals orientation
+
+## To do
+- [ ] export vars to H5 file
+- [ ] fill plots (volume, DA, sphericity) VS dist from pit front
