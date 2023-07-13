@@ -15,17 +15,17 @@ The dataset is composed of a stitched 3D image of 4 synchrotron x-ray phase-cont
 This notebook shows how to:
 - [X] Generate binary mask of the whole corrosion pit 
 - [X] Generate binary mask of the pit bottom
-- [X] Generate binary mask of crystal inclusions
+- [X] Generate binary mask of particle inclusions
 
 ---
-### [581681_punta_HR_stitch2_crystals.ipynb - analysis of particle inclusions](581681_punta_HR_stitch2_crystals.ipynb) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](examples/old/ciclope_ex01_voxelFE_trabecularbone_CalculiX.ipynb)
-![Plot of sediment particles orientation](crystals_orientation_YZ_bg.png)
+### [581681_punta_HR_stitch2_particles.ipynb - analysis of particle inclusions](581681_punta_HR_stitch2_particles.ipynb) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](examples/old/ciclope_ex01_voxelFE_trabecularbone_CalculiX.ipynb)
+![Plot of sediment particles orientation](particle_orientation_YZ_bg.png)
 
 Use the `label toolkit` of the [spam](https://ttk.gricad-pages.univ-grenoble-alpes.fr/spam/spam_examples/label/plot_labelToolkit01.html) package to:
 
-1. Label single crystal sediments within the corrosion pit
-2. Analyse properties of single crystals such as their volume and sphericity
-3. Study and generate plots of the orientation of single crystals
+1. Label single particle sediments within the corrosion pit
+2. Analyse properties of single particles such as their volume and sphericity
+3. Study and generate plots of the orientation of single particles
 4. Measure the distance of sedimented particles from the pit corrosion front (particle age)
 5. Plot the relationship between particle age and morphology
 
