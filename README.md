@@ -1,20 +1,20 @@
-# 07-10/03/2022 - CERIC-Franceschin beamtime @ SYRMEP Elettra
-Repository of the image processing software for G. Franceschin et al. "An Archaeological Fragment of Roman Glass Reveals the Patterns of Glass Corrosion Mechanisms in Soil."
+# 07-10/03/2022 - CERIC-Franceschin beamtime @ Elettra SYRMEP
+Repository of the image processing software for G. Franceschin et al. _"An Archaeological Fragment of Roman Glass Reveals the Patterns of Glass Corrosion Mechanisms in Soil."_
 
-Sample and data information:
+Image processing steps are described in the [Image processing notebooks](./notebooks) folder.
+
+**Synchrotron microCT scan information:**
 
 |Scan parameters|   |
 |:-|:-|
 |Beamline|SYRMEP@Elettra|
 |Beamtime|20217193_Traviglia - CERIC|
 |Sample|581681_patina/581681_punta_HR_stitch2 |
-|Energy| 27 keV |
+|Energy (mean)| 27 keV |
 |Camera| ORCA flash |
 |Voxel size| 1.0 um |
 |SDD | 150 mm |
 |Preliminary operations|[stitch of 4 scans](https://github.com/gianthk/recon_utils/tree/master/stitch_scan) (normalized; 2D rigid transform) |
-
-Image processing steps are described in the [Image processing notebooks](./notebooks) folder.
 
 ---
 particle sphericity | particle orientation
@@ -24,15 +24,6 @@ particle sphericity | particle orientation
 particle volume | particle depth
 :-------------------------:|:-------------------------:
 ![sphericity](notebooks/100slices_regions_volume.png)  |  ![orientation](notebooks/100slices_regions_depth.png)
-
-## Figures
-- [X] Particle location
-- [X] Particle size and shape (sphericity, DA, ...)
-- [X] Particles orientation
-
-## To do
-- [X] export vars to H5 file
-- [X] fill plots (volume, DA, sphericity) VS dist from pit front
 
 ---
 ## Acknowledgements
