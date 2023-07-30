@@ -29,8 +29,6 @@ particle volume | particle depth
 ## Acknowledgements
 We acknowledge the CERIC-ERIC Consortium for the access to experimental facility SYRMEP of ELETTRA and financial support for synchrotron measurements.  
 
-The images published here are made available under the concession granted by the Ministry of Culture, Regional Directorate of Museums of Friuli Venezia Giulia, and are subject to specific conditions. Any further reproduction, duplication by any means, as well as downloading and subsequent manipulation, is strictly prohibited.
-
 ---
 Beamtime files (restricted access):
 - [Beamtime log](https://docs.google.com/document/d/1fjyVFMCTpSvbUCNX24nXlbFs_4Q7dz0G9pO4Xdt3MnQ/edit?usp=sharing)
