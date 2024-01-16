@@ -1,4 +1,7 @@
 # 07-10/03/2022 - CERIC-Franceschin beamtime @ Elettra SYRMEP
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8169072.svg)](https://doi.org/10.5281/zenodo.8169072)
+
 Repository of the image processing software for G. Franceschin et al. _"An Archaeological Fragment of Roman Glass Reveals the Patterns of Glass Corrosion Mechanisms in Soil."_
 
 Image processing steps are described in the [Image processing notebooks](./notebooks) folder.
