@@ -2,7 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8169072.svg)](https://doi.org/10.5281/zenodo.8169072)
 
-Repository of the image processing software for G. Franceschin et al. _"An Archaeological Fragment of Roman Glass Reveals the Patterns of Glass Corrosion Mechanisms in Soil."_
+Repository of the image processing software for (Franceschin et al., 2024)
+> Franceschin, G., Zanini, R., Iori, G., Longo, E., Divitini, G., Tromba, G., & Traviglia, A. (2024). Non-destructive 3D exploration of silicate glass corrosion: A combined multiscale approach from the macro to the nanoscale. Physical Chemistry Chemical Physics, 26(12), 9697–9707. https://doi.org/10.1039/D3CP05221D
 
 Image processing steps are described in the [Image processing notebooks](./notebooks) folder.
 
